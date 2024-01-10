@@ -83,4 +83,4 @@ Before running the project, make sure you have the following installed:
 
 
 
-![Bot](https://github.com](https://t.me/tempaniketbot)https://t.me/tempaniketbot/)
+![Bot](https://t.me/tempaniketbot)https://t.me/tempaniketbot/)
