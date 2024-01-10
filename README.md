@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project implements a Telegram bot using the NestJS framework and Node.js. The bot allows users to subscribe for daily weather updates and includes an admin panel with Google login for managing bot settings and user accounts.
+This project implements a Telegram bot using the NestJS framework and Node.js. 
+The bot allows users to subscribe for daily weather updates and includes an admin panel with Google login for managing bot settings and user accounts.
 
 ## Tech Stack
 
@@ -19,19 +20,17 @@ This project implements a Telegram bot using the NestJS framework and Node.js. T
 ![Screenshot 2](/screenshots/screenshot2.png)
 *Description of the screenshot.*
 
-## Setup Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
 
 
-## Features
+## Features💡
 
-- Users can subscribe to receive weather updates.
-- Users can unsubscribe to stop receiving weather updates.
-- MongoDB is used to store user data.
-- Integration with the OpenWeatherMap API for weather data.
+:star: Users can subscribe to receive weather updates.
+
+:star: Users can unsubscribe to stop receiving weather updates.
+
+:star: MongoDB is used to store user data.
+
+:star: Integration with the OpenWeatherMap API for weather data.
 
 ## Prerequisites
 
@@ -43,7 +42,7 @@ Before running the project, make sure you have the following installed:
 
 ## Getting Started
 
-### Installation
+### Installation ⚙️
 
 1. Clone the repository:
 
@@ -72,7 +71,7 @@ Before running the project, make sure you have the following installed:
 6. Users can interact with the bot by sending commands like /subscribe and /unsubscribe.
 
 
-## Contributing
+## Contributing 🔥
 - Contributions are welcome! Please follow these guidelines:
 
     - Fork the repository.
@@ -81,10 +80,7 @@ Before running the project, make sure you have the following installed:
     - Push to your branch: git push origin feature/your-feature.
     - Create a pull request.
     
-## Licence
-
-- This is a open source project, users can contribute according to open source guidelines.
 
 
 
-![Bot](https://github.com/)
+![Bot](https://github.com](https://t.me/tempaniketbot)https://t.me/tempaniketbot/)
