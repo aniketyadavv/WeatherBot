@@ -5,6 +5,9 @@
 This project implements a Telegram bot using the NestJS framework and Node.js. 
 The bot allows users to subscribe for daily weather updates and includes an admin panel with Google login for managing bot settings and user accounts.
 
+> Telegram Bot link:
+- [t.me/tempaniketbot](https://t.me/tempaniketbot/)
+
 ## Tech Stack
 
 - **NestJS**: A progressive Node.js framework for building efficient, reliable, and scalable server-side applications.
@@ -80,7 +83,3 @@ Before running the project, make sure you have the following installed:
     - Push to your branch: git push origin feature/your-feature.
     - Create a pull request.
     
-
-
-
-![Bot](https://t.me/tempaniketbot)https://t.me/tempaniketbot/)
