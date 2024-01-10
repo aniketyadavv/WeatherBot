@@ -22,15 +22,15 @@ The bot allows users to subscribe for daily weather updates and includes an admi
 
 
 
-## Features💡
+## Features
 
-:star: Users can subscribe to receive weather updates.
+- Users can subscribe to receive weather updates.
 
-:star: Users can unsubscribe to stop receiving weather updates.
+- Users can unsubscribe to stop receiving weather updates.
 
-:star: MongoDB is used to store user data.
+ - MongoDB is used to store user data.
 
-:star: Integration with the OpenWeatherMap API for weather data.
+- Integration with the OpenWeatherMap API for weather data.
 
 ## Prerequisites
 
@@ -42,7 +42,7 @@ Before running the project, make sure you have the following installed:
 
 ## Getting Started
 
-### Installation ⚙️
+### Installation 
 
 1. Clone the repository:
 
@@ -71,7 +71,7 @@ Before running the project, make sure you have the following installed:
 6. Users can interact with the bot by sending commands like /subscribe and /unsubscribe.
 
 
-## Contributing 🔥
+## Contributing 
 - Contributions are welcome! Please follow these guidelines:
 
     - Fork the repository.
