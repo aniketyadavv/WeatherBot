@@ -18,7 +18,7 @@ The bot allows users to subscribe for daily weather updates and includes an admi
 ![Screenshot 1](/weatherBot.png)
 > Screenshot of Weather Bot interacting with user.
 ***
-![Screenshot 2](/adminPanel.png)
+![Screenshot 2](/adminPanelScreenshot.png)
 > Screenshot of Admin Panel, where they can manage users which subscribed the Weather Bot.
 
 
